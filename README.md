@@ -27,3 +27,15 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+This is a simple TODO APP done with Vue and Vuetify.
+It has following functions: 
+
+### Add New Task
+### Mark Task as DONE
+### Edit Task
+### Clear specific tasks
+### Clear DONE tasks
+### Clear ALL tasks
+
