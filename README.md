@@ -1,7 +1,7 @@
 # todo
 
-This is a simple TODO APP done with Vue and Vuetify.
-It has following functions: 
+This is a simple *Todo App* done with Vue and Vuetify.
+It has the following functions: 
 
 - Add New Task
 - Mark Task as DONE
