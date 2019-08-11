@@ -1,5 +1,7 @@
 # todo
 
+APP is live at: [https://jovanailin.github.io/my-todo-list/]
+
 This is a simple *Todo App* done with Vue and Vuetify.
 It has the following functions: 
 
