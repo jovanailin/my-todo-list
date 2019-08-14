@@ -1,4 +1,4 @@
-# todo
+# TODO LIST
 
 APP is live at: [https://jovanailin.github.io/my-todo-list/]
 
